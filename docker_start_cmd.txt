@@ -1,0 +1,2 @@
+
+docker run -it -p 4567:4567 -v /c/Users/atpandey/Dock/Term2/CarND-Catch-Run-Away-Car-UKF:/work udacity/controls_kit:latest
