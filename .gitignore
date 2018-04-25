@@ -1,1 +1,6 @@
-*ScreenToGif
+.vscode
+ScreenToGif
+build
+tags
+.editorconfig
+.DS_Store
