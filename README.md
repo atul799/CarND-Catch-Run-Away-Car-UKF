@@ -101,5 +101,12 @@ To run the project:
 
 ***Another idea that is not tried here is to create a linear kalman filter for the catching car with x/y as state variables and predict positions with where the runaway car was in previous timestep.**
 
+## Dependencies
+cmake >= v3.5
 
+make >= v4.1
+
+gcc/g++ >= v5.4
+
+uWebSocketIO
 
